@@ -37,6 +37,30 @@ Gastar com produtos e serviços conforme o necessário (uso) e ser cobrado imedi
 - A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação. Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter sua presença de nuvem atualizada, protegida e bem gerenciada.
 - Gerenciabilidade: Escalar automaticamente a implantação de recursos com base na necessidade, implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual. É feita: Usando APIs ou usando o PowerShell.
 
+** aula 3
+
+## 𝙸𝚊𝚊𝚂 (𝚒𝚗𝚏𝚛𝚊𝚎𝚜𝚝𝚛𝚞𝚝𝚞𝚛𝚊 𝚌𝚘𝚖𝚘 𝚜𝚎𝚛𝚟𝚒𝚌̧𝚘)
+É a disponibilidade sob demanda de recursos de computação altamente escalonáveis como serviços pela Internet. Ela elimina a necessidade de as empresas adquirirem, configurarem ou gerenciarem a infraestrutura, assim elas pagarão apenas pelo que usarem.
+- O serviço de nuvem mais flexível.
+- Você configura e gerencia o hardware para seu aplicativo.
+
+
+## 𝙿𝚊𝚊𝚂 (𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊 𝚌𝚘𝚖𝚘 𝚜𝚎𝚛𝚟𝚒𝚌̧𝚘)
+É um ambiente de desenvolvimento e implantação completo na nuvem, com recursos que permitem a você fornecer tudo, desde aplicativos simples baseados em nuvem até sofisticados aplicativos empresariais habilitados para a nuvem. Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+- Focado no desenvolvimento de aplicativos.
+- O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+
+
+## 𝚂𝚊𝚊𝚂 (𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚌𝚘𝚖𝚘 𝚜𝚎𝚛𝚟𝚒𝚌̧𝚘)
+O SaaS fornece uma solução de software completa que você pode comprar em uma base paga conforme o uso por um provedor de serviço de nuvem. Você pode alugar o uso de aplicativo para sua organização e seus usuários se conectarem a ele pela Internet, normalmente por um navegador da Web. Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
+- Modelo de preço de pagamento conforme o uso.
+- Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
+
+
+
+
+
 
 
 
