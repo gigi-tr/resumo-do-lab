@@ -57,6 +57,45 @@ O SaaS fornece uma solução de software completa que você pode comprar em uma 
 - Os usuários pagam pelo software que utilizam em um modelo de assinatura.
 
 
+  ** aula 4
+
+## 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚎𝚜 𝚊𝚛𝚚𝚞𝚒𝚝𝚎𝚝𝚘̂𝚗𝚒𝚌𝚘𝚜 𝚍𝚘 𝙰𝚣𝚞𝚛𝚎
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝗋𝖾𝗀𝗂𝗈̃𝖾𝗌, 𝗉𝖺𝗋𝖾𝗌 𝖽𝖾 𝗋𝖾𝗀𝗂𝗈̃𝖾𝗌 𝖾 𝗋𝖾𝗀𝗂𝗈̃𝖾𝗌 𝗌𝗈𝖻𝖾𝗋𝖺𝗇𝖺𝗌 𝖽𝗈 𝖠𝗓𝗎𝗋𝖾.
+- O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem, com mais de 60 regiões representando mais de 140 países.
+- As regiões são compostas de um ou mais datacenters muito próximos.
+- Eles fornecem flexibilidade e escala para reduzir a latência do cliente.
+- As regiões preservam a residência dos dados com uma oferta abrangente de conformidade.
+
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝖺𝗌 𝗓𝗈𝗇𝖺𝗌 𝖽𝖾 𝖽𝗂𝗌𝗉𝗈𝗇𝗂𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾.
+- Fornece proteção contra tempo de inatividade devido a falha do datacenter.
+- Separa fisicamente os datacenters dentro da mesma região.
+- Cada datacenter é equipado com alimentação, resfriamento e rede independentes.
+- Conectadas por meio de redes privadas de fibra óptica.
+- Pares de regiões: No mínimo 300 milhas de separação entre pares de regiões, replicação automática para alguns serviços e recuperação de região priorizada em caso de interrupção.
+
+
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝗈𝗌 𝖽𝖺𝗍𝖺𝖼𝖾𝗇𝗍𝖾𝗋𝗌 𝖽𝗈 𝖠𝗓𝗎𝗋𝖾
+- Serviços Governamentais dos EUA: Atende às necessidades de segurança e conformidade das agências federais, governos estaduais e locais dos EUA e seus provedores de soluções.
+- Azure Governamental: Instância separada do Azure, fisicamente isolada de implantações que não sejam do governo dos EUA e acessível somente a pessoal verificado e autorizado.
+  
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝗈𝗌 𝗋𝖾𝖼𝗎𝗋𝗌𝗈𝗌 𝖾 𝗈𝗌 𝗀𝗋𝗎𝗉𝗈𝗌 𝖽𝖾 𝗋𝖾𝖼𝗎𝗋𝗌𝗈𝗌 𝖽𝗈 𝖠𝗓𝗎𝗋𝖾. 
+Os recursos do Azure são componentes como armazenamento, máquinas virtuais e redes que estão disponíveis para criar soluções de nuvem.
+
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝖺𝗌 𝖺𝗌𝗌𝗂𝗇𝖺𝗍𝗎𝗋𝖺𝗌. 
+Uma assinatura do Azure fornece a você acesso autenticado e autorizado às contas do Azure.
+- Limite de cobrança: gere relatórios de cobrança e faturas separados para cada assinatura.
+- Limite do controle de acesso: gerenciar e controlar o acesso aos recursos que os usuários podem provisionar com assinaturas específicas.
+
+
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝗈𝗌 𝗀𝗋𝗎𝗉𝗈𝗌 𝖽𝖾 𝗀𝖾𝗋𝖾𝗇𝖼𝗂𝖺𝗆𝖾𝗇𝗍𝗈. 
+Um grupo de recursos é um contêiner que você usa para gerenciar e agregar recursos em uma única unidade, os recursos podem existir em apenas um grupo de recursos, podem existir em diferentes regiões, podem ser movidos para diferentes grupos de recursos e os aplicativos podem utilizar vários grupos de recursos.
+
+### 𝖣𝖾𝗌𝖼𝗋𝖾𝗏𝖾𝗋 𝖺 𝗁𝗂𝖾𝗋𝖺𝗋𝗊𝗎𝗂𝖺 𝖽𝖾 𝗀𝗋𝗎𝗉𝗈𝗌 𝖽𝖾 𝗋𝖾𝖼𝗎𝗋𝗌𝗈𝗌, 𝖺𝗌𝗌𝗂𝗇𝖺𝗍𝗎𝗋𝖺𝗌 𝖾 𝗀𝗋𝗎𝗉𝗈𝗌 𝖽𝖾 𝗀𝖾𝗋𝖾𝗇𝖼𝗂𝖺𝗆𝖾𝗇𝗍𝗈.
+- Os grupos de gerenciamento podem incluir várias assinaturas do Azure.
+- As assinaturas herdam as condições aplicadas ao grupo de gerenciamento.
+
+
+
 
 
 
